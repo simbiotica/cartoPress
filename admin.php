@@ -26,7 +26,6 @@ function cartopress_options() {
 	</form>
 	</div>
 	<?php
- 
 }
 
 function cartopress_admin_menu() {
