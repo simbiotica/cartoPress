@@ -1,5 +1,5 @@
 === CartoPress - CartoDB integration for WordPress ===
-Contributors: tiagojsag
+Contributors: tiagojsag, simbiotica
 Tags: catodb
 Requires at least: 3.0
 Tested up to: 3.5
